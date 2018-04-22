@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #778088; /*main text throughpt the page*/
 }
 
 @media (min-width: 992px) {
@@ -20,7 +20,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #709cc1; /*Main Daniel at the top, position in the jobs section, and others minor highlights throughout the web*/
 }
 
 h1 {
@@ -40,11 +40,11 @@ h2 {
 }
 
 .list-social-icons a {
-  color: #495057;
+  color: #418AB6;
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #e98c49;
 }
 
 .list-social-icons a .fa-lg {
@@ -131,19 +131,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #418AB6 !important;
+  background-color: #418AB6 !important; /*the big left bar*/
 }
 
 .text-primary {
-  color: #418AB6 !important;
+  color: #e98c49 !important; /*only the big last name at first*/ 
 }
 
 a {
-  color: #418AB6;
+  color: #38ACDA; /*#link colors*/
 }
 
 a:hover, a:focus, a:active {
-  color: #EBEFEE;
+  color: #e98c49; /*links when you hover on them*/
 }
 
 img {
