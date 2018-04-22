@@ -10,42 +10,42 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     address = "Mexico City"
     phone = "+52.55.31.34.32.38"
     contactNote = "Opereations & Development Manager"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    profileImage = "img/dw.jpg"
+    email = "daniel.wing@gmail.com"
+    description = " Over 10 years tenure managing different size teams starting with ten delivery experts to ten directors and two coordinators on a 300-people operation for a national public institution. An expert mixing cold data-driven decisions with warm soft-skills to lead operations with special attention to the Customer Experience. Training specialist with a creative and artistry approach to a constructivist learning experience. Excellent oral and written communication skills, strong analytical skills and critical thinking. Proactive with a problem-solving mindset that includes both the strategic and operative approach."
     favicon = "images/favicon.ico"
     # what sections
+    showExperience = true
     showSkills = true
     showProjects = true
+    showEducation = true
     showOpenSource = true
     showPublications = true
-    showExperience = true
-    showEducation = true
 
     showQr = true
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/daniel-wing/"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/daniel-wing/"
 
 [[params.handles]]
     name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
+    link = "https://bitbucket.org/danielwing/"
 
 [[params.handles]]
     name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
+    link = "https://stackoverflow.com/users/5890190/daniel-wing"
     icon = "stack-overflow"
 
 [[params.handles]]
     name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
+    link = "https://keybase.io/danielwing"
     icon = "key"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "#XX-123446-01"
