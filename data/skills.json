@@ -1,14 +1,14 @@
 [
   {
-      "grouping":"Architecture",
+      "grouping":"People Management",
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Tools & Software",
+      "skills":[ "MS Office","Excel","Power BI","ArGIS","QGIS","R","R Studio","Blogdown","Bookdown","Hugo","SQL","git"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Platforms Development & Administration",
+      "skills":[ "Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
   },
   {
     "grouping":"Containers & Cloud",
