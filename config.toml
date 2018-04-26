@@ -16,12 +16,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     description = " Over 10 years tenure managing different size teams starting with ten delivery experts to ten directors and two coordinators on a 300-people operation for a national public institution. An expert mixing cold data-driven decisions with warm soft-skills to lead operations with special attention to the Customer Experience. Training specialist with a creative and artistry approach to a constructivist learning experience. Excellent oral and written communication skills, strong analytical skills and critical thinking. Proactive with a problem-solving mindset that includes both the strategic and operative approach."
     favicon = "images/favicon.ico"
     # what sections
-    showSkills = true
+    showSkills = false
     showProjects = false
     showOpenSource = false
     showPublications = false
-    showExperience = true
-    showEducation = true
+    showExperience = false
+    showEducation = false
     
     showQr = false
 
@@ -30,23 +30,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     link = "https://www.linkedin.com/in/daniel-wing/"
 
 
-[[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/daniel-wing/"
-
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/danielwing/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/5890190/daniel-wing"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/danielwing"
-    icon = "key"
-
-[params.google.analytics]
-    trackerID = "#XX-123446-01"

@@ -1,34 +1,34 @@
 [
-  {
-      "grouping":"People Skills",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS","Excel","Power BI","ArGIS","QGIS","R","R Studio","Blogdown","Bookdown","Hugo","SQL"]
-  },
-  {
-      "grouping":"Learning Skills",
-      "skills":[
-        "constructivist learning",
-        "discvery Learning"
+    {
+        "grouping":"People Skills",
+        "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS","Excel","Power BI","ArGIS","QGIS","R","R Studio","Blogdown","Bookdown","Hugo","SQL"]
+    },
+    {
+        "grouping":"Learning Skills",
+        "skills":[
+          "constructivist learning",
+          "discvery Learning"
+          ]
+    },
+    {
+        "grouping":"Tools & Software",
+        "skills":[
+          {"name":"MS Office","link":"www.office.com"},
+          {"name":"git","link":"www.github.com"}
+          ]
+    },
+    {
+        "grouping":"Platforms Development & Administration",
+        "skills":[ "Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+    },
+    {
+      "grouping":"Containers & Cloud",
+        "skills":[
+            {"name":"BOSH","link":"https://bosh.io"},
+            {"name":"Docker","link":"https://docker.com"},
+            {"name":"AWS","link":"https://aws.amazon.com"},
+            {"name":"Google Cloud","link":"https://cloud.google.com"},
+            {"name":"Linux","link":"https://bosh.io"}
         ]
-  },
-  {
-      "grouping":"Tools & Software",
-      "skills":[
-        {"name":"MS Office","link":"www.office.com"},
-        {"name":"git","link":"www.github.com"}
-        ]
-  },
-  {
-      "grouping":"Platforms Development & Administration",
-      "skills":[ "Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
-  }
-]
+    }
+  ]
